@@ -1,0 +1,92 @@
+customer_Id,company_name,region,country
+ALFKI,Alfreds Futterkiste,NULL,Germany
+ANATR,Ana Trujillo Emparedados y helados,NULL,Mexico
+ANTON,Antonio Moreno Taquería,NULL,Mexico
+AROUT,Around the Horn,NULL,UK
+BERGS,Berglunds snabbköp,NULL,Sweden
+BLAUS,Blauer See Delikatessen,NULL,Germany
+BLONP,Blondesddsl père et fils,NULL,France
+BOLID,Bólido Comidas preparadas,NULL,Spain
+BONAP,Bon app',NULL,France
+BOTTM,Bottom-Dollar Markets,BC,Canada
+BSBEV,B's Beverages,NULL,UK
+CACTU,Cactus Comidas para llevar,NULL,Argentina
+CENTC,Centro comercial Moctezuma,NULL,Mexico
+CHOPS,Chop-suey Chinese,NULL,Switzerland
+COMMI,Comércio Mineiro,SP,Brazil
+CONSH,Consolidated Holdings,NULL,UK
+DRACD,Drachenblut Delikatessen,NULL,Germany
+DUMON,Du monde entier,NULL,France
+EASTC,Eastern Connection,NULL,UK
+ERNSH,Ernst Handel,NULL,Austria
+FAMIA,Familia Arquibaldo,SP,Brazil
+FISSA,FISSA Fabrica Inter. Salchichas S.A.,NULL,Spain
+FOLIG,Folies gourmandes,NULL,France
+FOLKO,Folk och fä HB,NULL,Sweden
+FRANK,Frankenversand,NULL,Germany
+FRANR,France restauration,NULL,France
+FRANS,Franchi S.p.A.,NULL,Italy
+FURIB,Furia Bacalhau e Frutos do Mar,NULL,Portugal
+GALED,Galería del gastrónomo,NULL,Spain
+GODOS,Godos Cocina Típica,NULL,Spain
+GOURL,Gourmet Lanchonetes,SP,Brazil
+GREAL,Great Lakes Food Market,OR,USA
+GROSR,GROSELLA-Restaurante,DF,Venezuela
+HANAR,Hanari Carnes,RJ,Brazil
+HILAA,HILARION-Abastos,Táchira,Venezuela
+HUNGC,Hungry Coyote Import Store,OR,USA
+HUNGO,Hungry Owl All-Night Grocers,Co. Cork,Ireland
+ISLAT,Island Trading,Isle of Wight,UK
+KOENE,Königlich Essen,NULL,Germany
+LACOR,La corne d'abondance,NULL,France
+LAMAI,La maison d'Asie,NULL,France
+LAUGB,Laughing Bacchus Wine Cellars,BC,Canada
+LAZYK,Lazy K Kountry Store,WA,USA
+LEHMS,Lehmanns Marktstand,NULL,Germany
+LETSS,Let's Stop N Shop,CA,USA
+LILAS,LILA-Supermercado,Lara,Venezuela
+LINOD,LINO-Delicateses,Nueva Esparta,Venezuela
+LONEP,Lonesome Pine Restaurant,OR,USA
+MAGAA,Magazzini Alimentari Riuniti,NULL,Italy
+MAISD,Maison Dewey,NULL,Belgium
+MEREP,Mère Paillarde,Québec,Canada
+MORGK,Morgenstern Gesundkost,NULL,Germany
+NORTS,North/South,NULL,UK
+OCEAN,Océano Atlántico Ltda.,NULL,Argentina
+OLDWO,Old World Delicatessen,AK,USA
+OTTIK,Ottilies Käseladen,NULL,Germany
+PARIS,Paris spécialités,NULL,France
+PERIC,Pericles Comidas clásicas,NULL,Mexico
+PICCO,Piccolo und mehr,NULL,Austria
+PRINI,Princesa Isabel Vinhos,NULL,Portugal
+QUEDE,Que Delícia,RJ,Brazil
+QUEEN,Queen Cozinha,SP,Brazil
+QUICK,QUICK-Stop,NULL,Germany
+RANCH,Rancho grande,NULL,Argentina
+RATTC,Rattlesnake Canyon Grocery,NM,USA
+REGGC,Reggiani Caseifici,NULL,Italy
+RICAR,Ricardo Adocicados,RJ,Brazil
+RICSU,Richter Supermarkt,NULL,Switzerland
+ROMEY,Romero y tomillo,NULL,Spain
+SANTG,Santé Gourmet,NULL,Norway
+SAVEA,Save-a-lot Markets,ID,USA
+SEVES,Seven Seas Imports,NULL,UK
+SIMOB,Simons bistro,NULL,Denmark
+SPECD,Spécialités du monde,NULL,France
+SPLIR,Split Rail Beer & Ale,WY,USA
+SUPRD,Suprêmes délices,NULL,Belgium
+THEBI,The Big Cheese,OR,USA
+THECR,The Cracker Box,MT,USA
+TOMSP,Toms Spezialitäten,NULL,Germany
+TORTU,Tortuga Restaurante,NULL,Mexico
+TRADH,Tradição Hipermercados,SP,Brazil
+TRAIH,Trail's Head Gourmet Provisioners,WA,USA
+VAFFE,Vaffeljernet,NULL,Denmark
+VICTE,Victuailles en stock,NULL,France
+VINET,Vins et alcools Chevalier,NULL,France
+WANDK,Die Wandernde Kuh,NULL,Germany
+WARTH,Wartian Herkku,NULL,Finland
+WELLI,Wellington Importadora,SP,Brazil
+WHITC,White Clover Markets,WA,USA
+WILMK,Wilman Kala,NULL,Finland
+WOLZA,Wolski  Zajazd,NULL,Poland

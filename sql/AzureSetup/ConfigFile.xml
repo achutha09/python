@@ -1,0 +1,9 @@
+<root>
+    <AuthorizedUser>david.froslie@ndus.edu</AuthorizedUser>
+    <ResourceGroupName>csci422-sql-assign-2023</ResourceGroupName>
+    <Location>EASTUS</Location>
+    <NewSQLServerName>csci422-sql-2023</NewSQLServerName>
+    <UsageDatabaseName>csci422-db-2023</UsageDatabaseName>
+    <ServerAdmin>CSCI422ServerAdmin</ServerAdmin>
+    <NewKeyVaultName>csci422-sql-kv-2023</NewKeyVaultName>
+</root>

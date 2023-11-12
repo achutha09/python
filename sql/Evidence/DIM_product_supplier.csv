@@ -1,0 +1,30 @@
+supplier_Id,company_name,region,country,eff_start_date,eff_end_date
+1,Exotic Liquids,NULL,UK,2023-01-01,2023-12-31
+2,New Orleans Cajun Delights,LA,USA,2023-01-01,2023-12-31
+3,Grandma Kelly's Homestead,MI,USA,2023-01-01,2023-12-31
+4,Tokyo Traders,NULL,Japan,2023-01-01,2023-12-31
+5,Cooperativa de Quesos 'Las Cabras',Asturias,Spain,2023-01-01,2023-12-31
+6,Mayumi's,NULL,Japan,2023-01-01,2023-12-31
+7,"Pavlova, Ltd.",Victoria,Australia,2023-01-01,2023-12-31
+8,"Specialty Biscuits, Ltd.",NULL,UK,2023-01-01,2023-12-31
+9,PB Knäckebröd AB,NULL,Sweden,2023-01-01,2023-12-31
+10,Refrescos Americanas LTDA,NULL,Brazil,2023-01-01,2023-12-31
+11,Heli Süßwaren GmbH & Co. KG,NULL,Germany,2023-01-01,2023-12-31
+12,Plutzer Lebensmittelgroßmärkte AG,NULL,Germany,2023-01-01,2023-12-31
+13,Nord-Ost-Fisch Handelsgesellschaft mbH,NULL,Germany,2023-01-01,2023-12-31
+14,Formaggi Fortini s.r.l.,NULL,Italy,2023-01-01,2023-12-31
+15,Norske Meierier,NULL,Norway,2023-01-01,2023-12-31
+16,Bigfoot Breweries,OR,USA,2023-01-01,2023-12-31
+17,Svensk Sjöföda AB,NULL,Sweden,2023-01-01,2023-12-31
+18,Aux joyeux ecclésiastiques,NULL,France,2023-01-01,2023-12-31
+19,New England Seafood Cannery,MA,USA,2023-01-01,2023-12-31
+20,Leka Trading,NULL,Singapore,2023-01-01,2023-12-31
+21,Lyngbysild,NULL,Denmark,2023-01-01,2023-12-31
+22,Zaanse Snoepfabriek,NULL,Netherlands,2023-01-01,2023-12-31
+23,Karkki Oy,NULL,Finland,2023-01-01,2023-12-31
+24,"G'day, Mate",NSW,Australia,2023-01-01,2023-12-31
+25,Ma Maison,Québec,Canada,2023-01-01,2023-12-31
+26,Pasta Buttini s.r.l.,NULL,Italy,2023-01-01,2023-12-31
+27,Escargots Nouveaux,NULL,France,2023-01-01,2023-12-31
+28,Gai pâturage,NULL,France,2023-01-01,2023-12-31
+29,Forêts d'érables,Québec,Canada,2023-01-01,2023-12-31

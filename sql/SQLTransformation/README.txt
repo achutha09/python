@@ -1,0 +1,1 @@
+Put your SQL DDL and DML files in this folder.
